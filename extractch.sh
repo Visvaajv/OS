@@ -1,0 +1,5 @@
+a="abcdef"
+first="${a:0:1}"
+last="${a: -1}"
+echo "$first"
+echo "$last"
