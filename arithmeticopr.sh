@@ -9,5 +9,5 @@ case $c in
 2) echo "Subtraction=$(expr $a - $b)";;
 3)echo "Multiplication=$(expr $a * $b)";;
 4) echo "Division=$(expr $a / $b)";;
-5)echo ""Invalid Choice: Try Again
+5)echo "Invalid Choice: Try Again";;
 esac
